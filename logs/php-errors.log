@@ -1,0 +1,1207 @@
+[23-Mar-2026 17:06:02 Asia/Manila] PHP Warning:  Undefined array key "Asset Management System" in C:\xampp\htdocs\plan b\index.php on line 52
+[23-Mar-2026 17:06:09 Asia/Manila] PHP Warning:  Undefined array key "Asset Management System" in C:\xampp\htdocs\plan b\index.php on line 52
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 193
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 194
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 195
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 196
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 197
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 200
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 200
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 210
+[25-Mar-2026 12:00:28 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 211
+[25-Mar-2026 12:00:29 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 212
+[25-Mar-2026 12:00:29 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 213
+[25-Mar-2026 12:00:29 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 214
+[25-Mar-2026 12:00:29 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 215
+[25-Mar-2026 12:00:29 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 216
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 193
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 194
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 195
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 196
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 197
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 200
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 200
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 210
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 211
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 212
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 213
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 214
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 215
+[25-Mar-2026 12:02:34 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 216
+[25-Mar-2026 12:58:12 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 193
+[25-Mar-2026 12:58:12 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 194
+[25-Mar-2026 12:58:12 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 195
+[25-Mar-2026 12:58:12 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 196
+[25-Mar-2026 12:58:13 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 197
+[25-Mar-2026 12:58:13 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 200
+[25-Mar-2026 12:58:14 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 200
+[25-Mar-2026 12:58:14 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 210
+[25-Mar-2026 12:58:15 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 211
+[25-Mar-2026 12:58:15 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 212
+[25-Mar-2026 12:58:15 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 213
+[25-Mar-2026 12:58:16 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 214
+[25-Mar-2026 12:58:16 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 215
+[25-Mar-2026 12:58:16 Asia/Manila] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\plan b\app\Services\ReportService.php on line 216
+[27-Mar-2026 08:54:26 Asia/Manila] PHP Deprecated:  Method ReflectionMethod::setAccessible() is deprecated since 8.5, as it has no effect since PHP 8.1 in Standard input code on line 6
+[31-Mar-2026 07:08:24 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:08:24 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:08:26 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\assets.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:08:26 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\assets.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:08:28 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:08:28 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:08:30 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\reports.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:08:31 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\reports.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:14 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:14 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:58 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\assets.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:58 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\assets.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:58 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:59 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:59 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\reports.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:10:59 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventory_management_system.funding_sources' doesn't exist in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php:77
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(77): PDO->query('SELECT funding_...')
+#1 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php(88): App\Services\LookupService->listFundingSources()
+#2 C:\xampp\htdocs\AMS (03-30-2026)\app\Services\AssetService.php(176): App\Services\LookupService->fundingSourceNames()
+#3 C:\xampp\htdocs\AMS (03-30-2026)\modules\_context.php(12): App\Services\AssetService->getFilterOptions()
+#4 C:\xampp\htdocs\AMS (03-30-2026)\modules\reports.php(5): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\AMS (03-30-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\app\Services\LookupService.php on line 77
+[31-Mar-2026 07:13:02 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.classification_id' in 'on clause' in C:\xampp\htdocs\AMS (03-26-2026)\database\backfill_property_numbers.php:81
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-26-2026)\database\backfill_property_numbers.php(81): PDO->query('SELECT\n        ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-26-2026)\database\backfill_property_numbers.php on line 81
+[31-Mar-2026 02:01:33 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:35 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:35 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:36 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:49 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:51 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:51 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:52 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:01:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:02:43 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:02:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:03:11 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:03:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\login.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:03:11 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:03:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\login.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:03:11 UTC] PHP Warning:  require_once(C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[31-Mar-2026 02:03:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\AMS (03-30-2026)/ap\p/Support/helpers.php' (include_path='.;C:\php\pear') in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php:11
+Stack trace:
+#0 C:\xampp\htdocs\AMS (03-30-2026)\index.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\AMS (03-30-2026)\bootstrap.php on line 11
+[01-Apr-2026 08:01:37 Asia/Manila] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\xampp\htdocs\AMS (03-30-2026)\login.php on line 15
+[01-Apr-2026 08:01:45 Asia/Manila] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\xampp\htdocs\AMS (03-30-2026)\login.php on line 15
+[07-Apr-2026 16:50:27 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:50:27 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:50:29 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:50:31 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:50:32 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:50:32 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:19 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:19 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:22 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:23 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:23 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:24 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:24 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:37 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:37 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:38 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:39 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 16:58:39 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:02:18 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:02:18 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:02:19 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:12 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:13 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:13 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:14 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:15 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:16 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:17 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:13:18 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:26:28 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\assets.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:26:28 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\reports.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\module.php(21): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[07-Apr-2026 17:26:28 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1553 Cannot drop index 'uniq_par_officer_date': needed in a foreign key constraint in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php:27
+Stack trace:
+#0 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(27): PDO->exec('ALTER TABLE par...')
+#1 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php(13): App\Core\SchemaManager::ensureParDocumentType(Object(PDO))
+#2 C:\xampp\htdocs\AMS (04-01-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\AMS (04-01-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#4 C:\xampp\htdocs\AMS (04-01-2026)\modules\_context.php(10): App\Services\AssetService->__construct()
+#5 C:\xampp\htdocs\AMS (04-01-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\AMS (04-01-2026)\index.php(45): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\AMS (04-01-2026)\app\Core\SchemaManager.php on line 27
+[08-Apr-2026 20:41:13 Asia/Manila] PHP Warning:  Undefined array key "items" in Standard input code on line 22
+[08-Apr-2026 20:41:13 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in Standard input code:22
+Stack trace:
+#0 {main}
+  thrown in Standard input code on line 22
+[08-Apr-2026 20:41:27 Asia/Manila] PHP Warning:  Undefined array key "items" in Standard input code on line 24
+[08-Apr-2026 20:41:27 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in Standard input code:24
+Stack trace:
+#0 {main}
+  thrown in Standard input code on line 24
+[08-Apr-2026 20:41:40 Asia/Manila] PHP Warning:  Undefined array key "items" in Standard input code on line 24
+[08-Apr-2026 20:41:40 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in Standard input code:24
+Stack trace:
+#0 {main}
+  thrown in Standard input code on line 24
+[08-Apr-2026 20:42:05 Asia/Manila] PHP Warning:  Undefined array key "items" in C:\Users\PC\AppData\Local\Temp\ams_db_smoke.php on line 24
+[08-Apr-2026 20:42:05 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\PC\AppData\Local\Temp\ams_db_smoke.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Users\PC\AppData\Local\Temp\ams_db_smoke.php on line 24
+[08-Apr-2026 20:42:17 Asia/Manila] PHP Warning:  Undefined array key "items" in C:\Users\PC\AppData\Local\Temp\ams_db_smoke.php on line 24
+[08-Apr-2026 20:42:17 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\PC\AppData\Local\Temp\ams_db_smoke.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Users\PC\AppData\Local\Temp\ams_db_smoke.php on line 24
+[08-Apr-2026 20:43:21 Asia/Manila] PHP Warning:  Undefined array key "items" in C:\Users\PC\AppData\Local\Temp\ams_service_smoke.php on line 7
+[08-Apr-2026 20:43:21 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\PC\AppData\Local\Temp\ams_service_smoke.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\PC\AppData\Local\Temp\ams_service_smoke.php on line 7
+[08-Apr-2026 20:43:38 Asia/Manila] PHP Warning:  Undefined array key "items" in C:\Users\PC\AppData\Local\Temp\ams_inventory.php on line 5
+[08-Apr-2026 20:43:38 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\PC\AppData\Local\Temp\ams_inventory.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\PC\AppData\Local\Temp\ams_inventory.php on line 6
+[08-Apr-2026 20:43:38 Asia/Manila] PHP Warning:  Undefined array key "items" in C:\Users\PC\AppData\Local\Temp\ams_assets.php on line 5
+[08-Apr-2026 20:43:38 Asia/Manila] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\PC\AppData\Local\Temp\ams_assets.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\PC\AppData\Local\Temp\ams_assets.php on line 6
+[19-Apr-2026 12:52:00 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:00 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:00 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:01 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:05 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:06 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:06 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:07 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:07 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:08 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:19 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:19 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:19 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:22 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:38 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:39 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:52:40 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:16 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:16 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:17 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:19 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:20 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:21 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:21 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:34 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:34 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:55:35 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:57:50 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:57:52 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:57:53 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:57:55 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:58:04 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[19-Apr-2026 12:58:06 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\depdev-inv-Asset-Management-System\AMS (04-14-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:49:22 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:49:25 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:49:25 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:49:39 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:49:43 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:53:08 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:54:00 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:54:00 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:54:00 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:54:19 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 08:54:19 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:15:16 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:15:18 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:15:19 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:16:02 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:16:12 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:16:12 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:16:12 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:16:27 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 578
+[21-Apr-2026 09:16:34 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 578
+[21-Apr-2026 09:17:03 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:30:38 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:30:38 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:30:38 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:30:38 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:30:40 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:30:41 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[21-Apr-2026 09:30:48 Asia/Manila] PHP Warning:  Undefined array key "NORMAL" in C:\xampp\htdocs\IMS (04-19-2026)\app\Services\InventoryService.php on line 851
+[22-Apr-2026 07:39:00 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\test-main\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\test-main\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\test-main\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\test-main\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\test-main\IMS (04-21-2026)\modules\assets.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\test-main\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\test-main\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\test-main\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\test-main\IMS (04-21-2026)\modules\assets.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test-main\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:42:25 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:44:08 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:53:21 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:53:23 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:53:27 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:53:56 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:54:34 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:56:16 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\inventory.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:56:34 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:57:31 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\manage.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:58:02 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:58:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 07:59:00 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#3 C:\xampp\htdocs\IMS (04-21-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\AssetService.php(45): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\modules\_context.php(11): App\Services\AssetService->__construct()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\modules\registration.php(5): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 08:19:08 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#3 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 08:19:10 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#3 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 08:19:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#3 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 08:19:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#3 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 08:19:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'inventory_management_system' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#3 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\index.php(10): App\Services\OfficerService->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 08:59:09 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 08:59:10 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 08:59:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 08:59:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 08:59:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 08:59:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 08:59:34 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 08:59:37 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 09:00:06 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:31
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(31): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#2 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#3 {main}
+
+Next PDOException: Unable to connect to the database. Update config/database.php or your IMS_DB_* environment variables. in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php:42
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#1 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php on line 42
+[22-Apr-2026 09:09:11 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 09:09:13 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 09:09:56 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 09:10:30 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 09:10:32 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 C:\xampp\htdocs\IMS (04-21-2026)\app\Services\OfficerService.php(37): App\Core\Database::connection()
+#4 C:\xampp\htdocs\IMS (04-21-2026)\index.php(12): App\Services\OfficerService->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[22-Apr-2026 09:10:36 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'AO_PDIPBD_02' for key 'officer_code' in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php:90
+Stack trace:
+#0 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(90): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php(14): App\Core\SchemaManager::ensureOfficerCodes(Object(PDO))
+#2 C:\xampp\htdocs\IMS (04-21-2026)\app\Core\Database.php(50): App\Core\SchemaManager::ensure(Object(PDO))
+#3 Standard input code(4): App\Core\Database::connection()
+#4 {main}
+  thrown in C:\xampp\htdocs\IMS (04-21-2026)\app\Core\SchemaManager.php on line 90
+[25-Apr-2026 23:18:53 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[25-Apr-2026 23:18:53 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[25-Apr-2026 23:18:54 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[25-Apr-2026 23:18:56 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[25-Apr-2026 23:19:27 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[25-Apr-2026 23:19:27 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 09:21:15 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 09:21:15 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 09:21:17 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 09:21:19 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 13:02:09 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 13:02:09 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 13:54:56 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 13:54:56 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 14:00:21 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 14:00:21 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 14:00:24 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 14:01:38 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 14:01:38 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 14:01:40 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:01 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:02 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:10 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:18 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:19 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:19 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:20 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:20 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:21 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:24 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:25 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:39:29 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:41:25 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[26-Apr-2026 17:41:26 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 10:15:13 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 10:15:13 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-23-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:03:03 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:03:04 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:04:05 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:04:05 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:04:06 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:04:16 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:04:16 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:05:10 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:05:11 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
+[27-Apr-2026 19:05:12 Asia/Manila] PHP Warning:  Array to string conversion in C:\xampp\htdocs\IMS (04-28-2026)\app\Services\InventoryService.php on line 196
